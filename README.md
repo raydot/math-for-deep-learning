@@ -1,5 +1,5 @@
 # math-for-deep-learning
-Exercises from [<em>Math for Deep Learning: What You Need to Know to Understand Neural Networks</em>](https://nostarch.com/math-deep-learning)
+[Exercises](https://github.com/rkneusel9/MathForDeepLearning) from [<em>Math for Deep Learning: What You Need to Know to Understand Neural Networks</em>](https://nostarch.com/math-deep-learning)
 
 by Ronald T. Kneusel
 
