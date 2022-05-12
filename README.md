@@ -1,5 +1,7 @@
 # math-for-deep-learning
-Exercises from Math for Deep Learning by Ronald T. Kneusel
+Exercises from <em>Math for Deep Learning: What You Need to Know to Understand Neural Networks</em>
+
+by Ronald T. Kneusel
 
 [No Starch Press](http://www.nostarch.com), ISBN: 978-1-7185-0190-4
 
